@@ -72,9 +72,3 @@ Note: You can do this by letting the thread check its status before running/movi
 **Tr: bir hayvan ya kendisi veya hunter tarafından öldürülebilmektedir. 
 Hunter tarafından öldürülmede her uykudan döndükten sonra durumunu kontrol ederek eğer ölü ise 
 tüm kaynakları serbest bırakarak çalışmasını sonlandırmasını sağlayabilirsiniz**
-
-~33 animal
-
-I may add some tests later for auto grading.. You may need to submit multiple times.
-
-I have a limited github, so it is best you complete the assignment on your computer then submit it from github, if it is possible.. 
